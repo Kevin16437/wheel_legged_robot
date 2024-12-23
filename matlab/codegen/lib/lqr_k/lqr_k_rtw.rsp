@@ -1,0 +1,6 @@
+﻿rt_nonfinite.obj
+rtGetNaN.obj
+rtGetInf.obj
+lqr_k_initialize.obj
+lqr_k_terminate.obj
+lqr_k.obj
